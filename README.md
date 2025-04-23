@@ -24,7 +24,7 @@ Projeto desenvolvido como parte da disciplina **Microcontroladores e Sistemas Em
 
 | Item | Componente                           | Descrição                                                                 | Quantidade | Valor |
 |------|--------------------------------------|---------------------------------------------------------------------------|------------|------------|
-| 1    | [Raspberry Pi ZERO W](https://www.newark.com/pt-BR/raspberry-pi/raspberry-pi-pico/raspberry-pi-board-arm-cortex/dp/22AJ1097?src=raspberrypi)                  | Controlador principal do sistema (suporta MicroPython)                    | 1          | USD 4.00         |
+| 1    | [Raspberry Pi Pico](https://www.newark.com/pt-BR/raspberry-pi/raspberry-pi-pico/raspberry-pi-board-arm-cortex/dp/22AJ1097?src=raspberrypi)                  | Controlador principal do sistema             | 1          | USD 4.00         |
 | 2    | [Módulo Bluetooth HC-08](https://www.usinainfo.com.br/modulo-bluetooth-arduino/modulo-bluetooth-hc-08-40-ble-para-arduino-compativel-com-iphone-e-ipad-masterslave-3673.html)              | Comunicação serial com o celular via Bluetooth                            | 1          | BRL 61.33           |
 | 3    | [Servo motor MG996](https://www.usinainfo.com.br/servo-motores/servo-motor-mg996r-tower-pro-180-11kgfcm-de-posicao-com-engrenagens-metalicas-4850.html)                    | Atuação física: gira a chave para trancar/destrancar                      | 1          |     BRL 68.77       |
 | 4    | [Fonte 5V – 2A](https://www.makerhero.com/produto/fonte-dc-chaveada-5v-2a-micro-usb/)                        | Alimentação estável para o sistema                                        | 1          | BRL  29.90          |
