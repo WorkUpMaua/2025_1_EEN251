@@ -4,7 +4,7 @@
 
 Projeto desenvolvido como parte da disciplina **Microcontroladores e Sistemas Embarcados (EEN251)**, com o objetivo de criar uma **fechadura eletrônica acoplável a uma chave física**, capaz de girá-la no sentido **horário** (para trancar) e **anti-horário** (para destrancar) de forma automatizada.
 
-# 📋 Especificação de Requisitos
+## 📋 Especificação de Requisitos
 
 | ID     | Descrição                                                                 | Tipo        |
 |--------|---------------------------------------------------------------------------|-------------|
@@ -20,7 +20,7 @@ Projeto desenvolvido como parte da disciplina **Microcontroladores e Sistemas Em
 | REQ10  | O sistema pode incluir sensores de fim de curso para detectar o limite da rotação. | Opcional    |
 | REQ11  | O sistema pode ser alimentado por fonte externa com bateria de backup.    | Opcional    |
 
-# 🧰 Materiais Necessários
+## 🧰 Materiais Necessários
 
 | Item | Componente                           | Descrição                                                                 | Quantidade | Valor |
 |------|--------------------------------------|---------------------------------------------------------------------------|------------|------------|
