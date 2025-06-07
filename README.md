@@ -43,5 +43,22 @@ O diagrama de blocos a seguir tem como objetivo representar, de forma simplifica
 
 ![Imagem do Diagrama de Blocos](docs/diagrama_de_blocos.svg)
 
+## Foto e vídeos do projeto
+
+[Veja o vídeo funcionamento](https://youtube.com/shorts/3j6Cv1Wj5rs)
+
+[Veja o vídeo da explicação](https://youtube.com/shorts/zvppXcL821o)
+
+<img src="docs/foto_ex.jpeg" alt="Imagem do Projeto" width="400" />
 
 
+## 🤝 Integrantes
+
+- [João Paulo Bonagurio Ramirez](https://github.com/yJony)           | 22.01247-8
+- [Lucas Milani Thomsen Galhardo](https://github.com/LucasKiller)    | 22.00818-7   🤪🔪
+- [Lucas Olivares Borges da Silva](https://github.com/lvcasolivares) | 22.00889-6
+- [Luis Gustavo Gonçalves Machado](https://github.com/luisgmachado)  | 21.00322-0
+- [Tiago Tadeu de Azevedo](https://github.com/tiagooazevedo)         | 22.00856-0
+- [Victor Augusto de Gasperi](https://github.com/VictorGasperi)      | 22.00765-2
+
+![Imagem dos Integrantes](docs/foto-grupo.jpeg)
