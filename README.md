@@ -49,7 +49,8 @@ O diagrama de blocos a seguir tem como objetivo representar, de forma simplifica
 
 [Veja o vídeo da explicação](https://youtube.com/shorts/zvppXcL821o)
 
-<img src="docs/foto_ex.jpeg" alt="Imagem do Projeto" width="400" />
+<span><img src="docs/foto_ex.jpeg" alt="Imagem do Projeto" width="400" /></span>
+<span><img src="docs/foto-pronta.jpeg" alt="Imagem do Projeto" width="400" /></span>
 
 
 ## 🤝 Integrantes
